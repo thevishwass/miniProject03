@@ -5,7 +5,6 @@ This project explores and visualizes data from the `2020-2025.csv` dataset using
 ## 📂 Project Structure
 
 ```
-.
 ├── 2020-2025.csv          # Dataset file containing data for years 2020 to 2025
 ├── notebook.ipynb         # Jupyter Notebook with code, plots, and analysis
 ├── requirements.txt       # List of required Python libraries and versions
@@ -42,7 +41,7 @@ The dataset is used to analyze trends, compare values between countries, and und
 
 ### 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/yourusername/your-repository.git
+git clone https://github.com/thevishwass/miniProject03.git
 cd your-repository
 ```
 
@@ -105,7 +104,6 @@ Feel free to open an issue or pull request if you want to contribute or suggest 
 
 ## ✅ Notes
 
-- Make sure to replace `https://github.com/yourusername/your-repository.git` with the actual URL of your GitHub repository
+- Make sure to replace `https://github.com/thevishwass/miniProject03.git` with the actual URL of your GitHub repository
 - Add your own insights and observations after running the notebook and interpreting the plots
 - This project is designed to be easy to set up and reproduce by anyone using the provided `requirements.txt`
-# miniProject03
