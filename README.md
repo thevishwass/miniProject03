@@ -1,4 +1,4 @@
-# Data Visualization Project (2020-2025 Dataset)
+# Data Visualization Project (2020-2025 Countries GDP)
 
 This project explores and visualizes data from the `2020-2025.csv` dataset using Python libraries such as **pandas**, **seaborn**, and **matplotlib**. The purpose is to create meaningful graphs (bar plots, line plots, KDE plots, etc.) and analyze trends and distributions across countries and years.
 
